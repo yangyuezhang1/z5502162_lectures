@@ -2,5 +2,5 @@
 Project configuration file
 """
 import os
-PRJDIR = r'C:\Users\Dollars\PycharmProjects\toolkit'
+PRJDIR = '???'
 DATADIR = os.path.join(PRJDIR, 'data')
